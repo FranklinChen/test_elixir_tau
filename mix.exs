@@ -3,8 +3,8 @@ defmodule TestElixirTau.Mixfile do
 
   def project do
     [ app: :test_elixir_tau,
-      version: "0.0.1",
-      elixir: "~> 0.10.1",
+      version: "0.0.2",
+      elixir: "~> 0.11.2",
       deps: deps ]
   end
 
@@ -16,6 +16,6 @@ defmodule TestElixirTau.Mixfile do
   # Returns the list of dependencies in the format:
   # { :foobar, "~> 0.1", git: "https://github.com/elixir-lang/foobar.git" }
   defp deps do
-    [{ :tau, "0.0.1", [github: "FranklinChen/tau"] }]
+    [{ :tau, "0.0.2", [github: "FranklinChen/tau"] }]
   end
 end
