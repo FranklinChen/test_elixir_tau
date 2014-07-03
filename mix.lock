@@ -1,1 +1,1 @@
-[ "tau": {:git, "git://github.com/FranklinChen/tau.git", "ee77b35ce317bcd2b9bc6fe77dc4cec31d0d1df4", []} ]
+%{"tau": {:git, "git://github.com/FranklinChen/tau.git", "32ff15c5aa09a387b6a2d1f4cce180a387a55e55", []}}
